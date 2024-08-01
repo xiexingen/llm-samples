@@ -1,0 +1,6 @@
+transformers
+langchain-chroma
+langchain
+langchain_community
+langchainhub
+langchain-huggingface
