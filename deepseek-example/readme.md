@@ -19,6 +19,6 @@ conda activate deepseek
 
 ``` bash
 # rich 包方便查看打印结果
-pip install openai langchain langchain_community langchain-deepseek rich
+pip install openai langchain langchain_community langchain-deepseek ollama rich
 ```
 
