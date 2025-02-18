@@ -20,5 +20,7 @@ conda activate deepseek
 ``` bash
 # rich 包方便查看打印结果
 pip install openai langchain langchain_community langchain-deepseek ollama rich
+# 向量化需要的包
+pip install torch  sentence-transformers chromadb
 ```
 
